@@ -56,6 +56,7 @@ import {myButton} from "./components/button";
 <!--              <td class="bg-black text-white rounded px-2 py-3 capitalize">age:</td>-->
 <!--              <td><span class="ml-10">28</span></td>-->
 <!--            </tr>-->
+
             <tr class="mb-5">
               <td class="bg-gray-500 text-white rounded px-2 py-3 capitalize">residence:</td>
               <td><span class="ml-10 ">Luohu District, Shenzhen</span></td>
