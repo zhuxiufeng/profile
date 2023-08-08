@@ -23,7 +23,7 @@ import {myButton} from "./components/button";
         </div>
       </figure>
       <div class="card-body items-center text-center">
-        <h2 class="card-title">XXX</h2>
+        <h2 class="card-title">Xiufeng Zhu</h2>
         <p>Is a dog ?</p>
         <ul class="menu menu-horizontal bg-base-200 bg-transparent">
           <li><a>
@@ -32,10 +32,10 @@ import {myButton} from "./components/button";
           <li><a>
             <font-awesome-icon icon="fa-brands fa-linkedin"/>
           </a></li>
-          <li><a>
+          <li><a href="https://github.com/zhuxiufeng">
             <font-awesome-icon icon="fa-brands fa-github"/>
           </a></li>
-          <li><a>
+          <li><a href="https://stackoverflow.com/users/6538803/sage-byte">
             <font-awesome-icon icon="fa-brands fa-stack-overflow"/>
           </a></li>
         </ul>
@@ -48,25 +48,25 @@ import {myButton} from "./components/button";
       <div class="card-body ">
         <div >
           <h2 class="card-title mb-10">About me</h2>
-          <p class="mb-10">Hello! I’m John Owens. I'm a programmer living in California. I code in Python.</p>
+          <p class="mb-10">Hello! I’m Xiufeng Zhu. I'm a programmer living in Guangdong. I code in Python.</p>
           <!--          <div class="overflow-x-auto">-->
           <table class="table-auto">
             <tbody class="">
+<!--            <tr class="mb-5">-->
+<!--              <td class="bg-black text-white rounded px-2 py-3 capitalize">age:</td>-->
+<!--              <td><span class="ml-10">28</span></td>-->
+<!--            </tr>-->
             <tr class="mb-5">
-              <td class="bg-black text-white rounded px-2 py-3 capitalize">age:</td>
-              <td><span class="ml-10">28</span></td>
+              <td class="bg-gray-500 text-white rounded px-2 py-3 capitalize">residence:</td>
+              <td><span class="ml-10 ">Luohu District, Shenzhen</span></td>
             </tr>
             <tr class="mb-5">
-              <td class="bg-black text-white rounded px-2 py-3 capitalize">residence:</td>
-              <td><span class="ml-10 ">USA</span></td>
-            </tr>
-            <tr class="mb-5">
-              <td class="bg-black text-white rounded px-2 py-3 capitalize">availability:</td>
+              <td class="bg-gray-500 text-white rounded px-2 py-3 capitalize">availability:</td>
               <td><span class="ml-10">9AM - 5PM PST</span></td>
             </tr>
             <tr class="mb-5">
-              <td class="bg-black text-white rounded px-2 py-3 capitalize">address:</td>
-              <td><span class="ml-10">California, USA</span></td>
+              <td class="bg-gray-500 text-white rounded px-2 py-3 capitalize">address:</td>
+              <td><span class="ml-10">Guangdong, China</span></td>
             </tr>
             </tbody>
           </table>
