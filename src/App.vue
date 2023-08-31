@@ -175,24 +175,6 @@
           </div>
         </div>
         <div class="divider"></div>
-        <div>
-          <h2 class="card-title">My Works</h2>
-          <div class="grid grid-cols-1 md:grid-cols-2 gap-6 py-3">
-            <a data-sveltekit-prefetch="" href="./works/automate/">
-            <div data-sal="slide-up" data-sal-duration="800">
-              <img width="200" height="150" loading="lazy" class="lazyload h-44 w-full object-cover object-center rounded" src="https://picsum.photos/id/1/500/300" alt="Automate Tasks">
-              <h3 class="font-semibold text-center">Automate Tasks</h3>
-              <p class="text-sm text-center">A project to automate a lot of my daily mundane taks.</p>
-            </div>
-          </a><a data-sveltekit-prefetch="" href="./works/fake-news-detector/">
-            <div data-sal="slide-up" data-sal-duration="800"><img width="200" height="150" loading="lazy"
-                                                                  class="lazyload h-44 w-full object-cover object-center rounded"
-                                                                  src="https://picsum.photos/id/1073/500/300"
-                                                                  alt="Fake News Detector">
-              <h3 class="font-semibold text-center">Fake News Detector</h3>
-              <p class="text-sm text-center">A Python project to detect fake news on the Internet.</p></div>
-          </a></div>
-        </div>
       </div>
       <!--    <main class="col-span-12 md:col-span-8 shadow-lg md:rounded-lg bg-white p-4 md:p-8 overflow-hidden ml-5">-->
       <!--    </main>-->
