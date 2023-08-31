@@ -5,7 +5,7 @@
     <div class="card w-64 h-96 bg-base-100 shadow ml-60 sticky top-0">
       <figure class="px-10 pt-10 pb-4 border-b-2 w-56 m-auto">
         <div class="avatar m-auto">
-          <div class="w-24 rounded-full"><img src="./img/one_inch_photo_ps.jpg"/></div>
+          <div class="w-24 rounded-full"><img src="./img/work.jpg"/></div>
         </div>
       </figure>
       <div class="card-body items-center text-center">
