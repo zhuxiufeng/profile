@@ -103,9 +103,6 @@
         </div>
         <div class="divider"></div>
       </div>
-      <!--    <main class="col-span-12 md:col-span-8 shadow-lg md:rounded-lg bg-white p-4 md:p-8 overflow-hidden ml-5">-->
-      <!--    </main>-->
-
     </div>
   </div>
 </template>
