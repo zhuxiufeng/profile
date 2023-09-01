@@ -25,121 +25,48 @@
             <font-awesome-icon icon="fa-brands fa-stack-overflow"/>
           </a></li>
         </ul>
-        <!--        <div class="card-actions">-->
-        <!--&lt;!&ndash;          <button class="btn btn-primary">Buy Now</button>&ndash;&gt;-->
-        <!--        </div>-->
       </div>
     </div>
     <div class="card w-6/12 bg-base-100 shadow ml-5">
       <div class="card-body space-y-10">
         <div>
           <h2 class="card-title mb-10">About me</h2>
-          <p class="mb-10">Hello! I’m Xiufeng Zhu. I'm a programmer living in Guangdong</p>
-          <!--          <div class="overflow-x-auto">-->
-          <table class="table-auto">
-            <tbody class="">
-            <!--            <tr class="mb-5">-->
-            <!--              <td class="bg-black text-white rounded px-2 py-3 capitalize">age:</td>-->
-            <!--              <td><span class="ml-10">28</span></td>-->
-            <!--            </tr>-->
-            <tr class="mb-5">
-              <td class="bg-gray-100 text-white rounded px-2 py-3 capitalize text-black">residence:</td>
-              <td><span class="ml-10">Luohu District, Shenzhen</span></td>
-            </tr>
-            <tr class="mb-5">
-              <td class="bg-gray-100 text-white rounded px-2 py-3 capitalize text-black">availability:</td>
-              <td><span class="ml-10">9AM - 5PM PST</span></td>
-            </tr>
-            <tr class="mb-5">
-              <td class="bg-gray-100 text-white rounded px-2 py-3 capitalize text-black">address:</td>
-              <td><span class="ml-10">Guangdong, China</span></td>
-            </tr>
-            </tbody>
-          </table>
+          <div class="hero bg-transparent text-left">
+            <div class="hero-content text-left">
+              <div class="max-w-md text-left">
+                <p class="py-6">I'm a programmer living in Guangdong.</p>
+              </div>
+            </div>
+          </div>
         </div>
         <div class="divider"></div>
         <div>
-          <h2 class="card-title">🛠️ My Skills</h2>
+          <h2 class="card-title">My Skills</h2>
           <ul class="mt-10">
             <li>
-              <div><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px alt="">  Programming languages</div>
-              <div class="flex">
-                &emsp;
-                <a href="https://www.cprogramming.com/" target="_blank">
-                  <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
-                </a>
-                &emsp;
-                <a href="https://www.w3schools.com/cpp/" target="_blank">
-                  <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
-                </a>
-                &emsp;
-                <a href="https://www.python.org" target="_blank">
-                  <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-                </a>
-                &emsp;
-                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-                  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-                </a>
-                &emsp;
-                <a href="https://www.java.com" target="_blank">
-                  <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-                </a>
+              <div>  Programming languages</div>
+              <div class="flex justify-between">
+                <a href="#"><img src="https://img.shields.io/badge/C%2B%2B-%23092E20.svg?style=plastic&logo=c%2B%2B&logoColor=white"  alt=""/></a>
+                <a href="#"><img src="https://img.shields.io/badge/Python-%23092E20.svg?style=plastic&logo=python&logoColor=white"  alt=""/></a>
+                <a href="#"><img src="https://img.shields.io/badge/Java-%23092E20.svg?style=plastic&logo=openjdk&logoColor=white"  alt=""/></a>
+                <a href="#"><img src="https://img.shields.io/badge/JavaScript-%23092E20.svg?style=plastic&logo=javascript&logoColor=white"  alt=""/></a>
+                <a href="#"><img src="https://img.shields.io/badge/Rust-%23092E20.svg?style=plastic&logo=rust&logoColor=white"  alt=""/></a>
+                <a href="#"><img src="https://img.shields.io/badge/Go-%23092E20.svg?style=plastic&logo=go&logoColor=white"  alt=""/></a>
               </div>
-
             </li>
-            <li>
-              <div> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px alt=""> Software & Tools</div>
-              <div class="flex">
-                &emsp;
-                <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-                &emsp;
-                <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-                &emsp;
-                <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
-                &emsp;
-                <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
-                &emsp;
-                <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
-                &emsp;
+            <li class="pt-5">
+              <div> Software & Tools</div>
+              <div class="flex justify-between" i>
+                <a href="#"><img src="https://img.shields.io/badge/Vue.js-%23092E20.svg?style=plastic&logo=Vue.js&logoColor=white"  alt=""/></a>
+                <a href="#"><img src="https://img.shields.io/badge/Spring-%23092E20.svg?style=plastic&logo=spring&logoColor=white"  alt=""/></a>
+                <a href="#"><img src="https://img.shields.io/badge/flask-%23092E20.svg?&style=plastic&logo=flask&logoColor=white"  alt=""/></a>
                 <a href="#"><img src="https://img.shields.io/badge/django-%23092E20.svg?&style=plastic&logo=django&logoColor=white"  alt=""/></a>
-                &emsp;
-                <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white" alt=""/></a>
+                <a href="#"><img src="https://img.shields.io/badge/nginx-%23092E20.svg?&style=plastic&logo=nginx&logoColor=white"  alt=""/></a>
+                <a href="#"><img src="https://img.shields.io/badge/Qt-%23092E20.svg?style=plastic&logo=qt&logoColor=white"  alt=""/></a>
+                <a href="#"><img src="https://img.shields.io/badge/Docker-%23092E20.svg?style=plastic&logo=docker&logoColor=white"  alt=""/></a>
+                <a href="#"><img src="https://img.shields.io/badge/Pandas-%23092E20.svg?style=plastic&logo=pandas&logoColor=white"  alt=""/></a>
               </div>
             </li>
-
-
-<!--            <li class="rating flex-col space-y-3">-->
-<!--              &lt;!&ndash;              <div>Python</div>&ndash;&gt;-->
-<!--              <font-awesome-icon icon="fa-brands fa-python"/>-->
-<!--              <div>-->
-<!--                <input disabled type="radio" name="rating-1" class="mask mask-star"/>-->
-<!--                <input disabled type="radio" name="rating-1" class="mask mask-star"/>-->
-<!--                <input disabled type="radio" name="rating-1" class="mask mask-star"/>-->
-<!--                <input disabled type="radio" name="rating-1" class="mask mask-star " checked/>-->
-<!--                <input disabled type="radio" name="rating-1" class="mask mask-star"/>-->
-<!--              </div>-->
-<!--            </li>-->
-<!--            <li class="rating flex-col space-y-3">-->
-<!--              <font-awesome-icon icon="fa-solid fa-c"/>-->
-<!--              <div>-->
-<!--                <input disabled type="radio" name="rating-3" class="mask mask-star"/>-->
-<!--                <input disabled type="radio" name="rating-3" class="mask mask-star"/>-->
-<!--                <input disabled type="radio" name="rating-3" class="mask mask-star"/>-->
-<!--                <input disabled type="radio" name="rating-3" class="mask mask-star" checked/>-->
-<!--                <input disabled type="radio" name="rating-3" class="mask mask-star"/>-->
-<!--              </div>-->
-<!--            </li>-->
-
-<!--            <li class="rating flex-col space-y-3">-->
-<!--              <font-awesome-icon icon="fa-brands fa-java"/>-->
-<!--              <div>-->
-<!--                <input disabled type="radio" name="rating-2" class="mask mask-star"/>-->
-<!--                <input disabled type="radio" name="rating-2" class="mask mask-star"/>-->
-<!--                <input disabled type="radio" name="rating-2" class="mask mask-star" checked/>-->
-<!--                <input disabled type="radio" name="rating-2" class="mask mask-star"/>-->
-<!--                <input disabled type="radio" name="rating-2" class="mask mask-star"/>-->
-<!--              </div>-->
-<!--            </li>-->
           </ul>
         </div>
         <div class="divider"></div>
